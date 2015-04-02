@@ -1,0 +1,6 @@
+G:\wok flow\json_serialization\json_serialization\bin\Debug\json_serialization.exe.config
+G:\wok flow\json_serialization\json_serialization\bin\Debug\json_serialization.exe
+G:\wok flow\json_serialization\json_serialization\bin\Debug\json_serialization.pdb
+G:\wok flow\json_serialization\json_serialization\obj\Debug\json_serialization.csprojResolveAssemblyReference.cache
+G:\wok flow\json_serialization\json_serialization\obj\Debug\json_serialization.exe
+G:\wok flow\json_serialization\json_serialization\obj\Debug\json_serialization.pdb
